@@ -3,7 +3,7 @@ hash = Hash.new
 return hash
 end
 
-def actor(actorrs)
+def actor(actors)
  actor = {:name => "Dwayne The Rock Johnson"}
 end
 
